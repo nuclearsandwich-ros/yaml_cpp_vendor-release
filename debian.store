@@ -1,1 +1,1 @@
-{"trim": "", "base": "9019c7e", "trimbase": "", "parent": "debian/eloquent/yaml_cpp_vendor", "previous": "fa68d86"}
+{"base": "7af2e34", "parent": "debian/verystable/yaml_cpp_vendor", "previous": "503c268", "trim": "", "trimbase": ""}
