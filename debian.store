@@ -1,1 +1,1 @@
-{"trim": "", "base": "ae5e197", "trimbase": "", "parent": "debian/foxy/yaml_cpp_vendor", "previous": "a7cf49e"}
+{"base": "0fe4982", "parent": "debian/testing/yaml_cpp_vendor", "previous": "d479e06", "trim": "", "trimbase": ""}
